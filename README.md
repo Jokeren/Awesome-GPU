@@ -1,7 +1,6 @@
 Awesome-GPU
 ----
 
-## Resources Management
 
 <!-- toc -->
 
@@ -20,6 +19,8 @@ Awesome-GPU
 - [White Papers](#white-papers)
 
 <!-- tocstop -->
+
+## Resources Management
 
 ### Papers
 
