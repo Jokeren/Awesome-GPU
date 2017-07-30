@@ -20,8 +20,6 @@ Awesome-GPU
 
 ### Slides
 
-### Papers
-
 1. **GTC'17**-[COOPERATIVE GROUPS](http://on-demand.gputechconf.com/gtc/2017/presentation/s7622-Kyrylo-perelygin-robust-and-scalable-cuda.pdf)
 
 ## Cache
