@@ -1,9 +1,9 @@
 Awesome-GPU
 ----
 
-
 <!-- toc -->
 
+- [Resources Management](#resources-management)
   * [Papers](#papers)
 - [Parallelism](#parallelism)
   * [Papers](#papers-1)
