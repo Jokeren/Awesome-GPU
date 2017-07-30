@@ -3,6 +3,24 @@ Awesome-GPU
 
 ## Resources Management
 
+<!-- toc -->
+
+  * [Papers](#papers)
+- [Parallelism](#parallelism)
+  * [Papers](#papers-1)
+  * [Slides](#slides)
+- [Cache](#cache)
+  * [Papers](#papers-2)
+- [Algorithm](#algorithm)
+  * [Papers](#papers-3)
+- [Performance Analysis](#performance-analysis)
+  * [Papers](#papers-4)
+  * [Books](#books)
+- [Compiler](#compiler)
+- [White Papers](#white-papers)
+
+<!-- tocstop -->
+
 ### Papers
 
 1. **ASPLOS'17**-[Locality-Aware CTA Clustering for Modern GPUs](http://dl.acm.org/citation.cfm?id=3037709)
