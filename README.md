@@ -16,7 +16,10 @@ Awesome-GPU
   * [Papers](#papers-4)
   * [Books](#books)
 - [Compiler](#compiler)
-- [White Papers](#white-papers)
+- [Documentations](#documentations)
+  * [White Papers](#white-papers)
+  * [APIs](#apis)
+- [GTC](#gtc)
 
 <!-- tocstop -->
 
@@ -69,9 +72,19 @@ Awesome-GPU
 
 1. **CGO'16**-[gpucc: An Open-Source GPGPU Compiler](http://dl.acm.org/citation.cfm?id=2854041)
 
-## White Papers
+## Documentations
+
+### White Papers
 
 1. **Volta**-[NVIDIA TESLA V100](http://www.nvidia.com/object/volta-architecture-whitepaper.html)
 2. **Pascal**-[NVIDIA TESLA P100](http://www.nvidia.com/object/gpu-architecture.html)
 3. **Kepler**-[NVIDIA’s Next Generation CUDA Compute Architecture: Kepler](https://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf)
 4. **Fermi**-[NVIDIA’s Next Generation CUDA Compute Architecture: Fermi](https://www.nvidia.com/content/PDF/fermi_white_papers/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)
+
+### APIs
+
+1. **CUDA Toolkit Documentation**-[CUDA Toolkit Documentation](http://docs.nvidia.com/cuda/)
+
+## GTC
+
+1. **GTC**-[GPU Technology Conference](https://www.nvidia.com/en-us/gtc/)
