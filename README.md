@@ -1,27 +1,29 @@
 Awesome-GPU
 ----
 
-<!-- toc -->
+Table of Contents
+=================
 
-- [Resources Management](#resources-management)
-  * [Papers](#papers)
-- [Parallelism](#parallelism)
-  * [Papers](#papers-1)
-  * [Slides](#slides)
-- [Cache](#cache)
-  * [Papers](#papers-2)
-- [Algorithm](#algorithm)
-  * [Papers](#papers-3)
-- [Performance Analysis](#performance-analysis)
-  * [Papers](#papers-4)
-  * [Books](#books)
-- [Compiler](#compiler)
-- [Documentations](#documentations)
-  * [White Papers](#white-papers)
-  * [APIs](#apis)
-- [GTC](#gtc)
+  * [Awesome-GPU](#awesome-gpu)
+  * [Resources Management](#resources-management)
+     * [Papers](#papers)
+  * [Parallelism](#parallelism)
+     * [Papers](#papers-1)
+     * [Slides](#slides)
+  * [Cache](#cache)
+     * [Papers](#papers-2)
+  * [Algorithm](#algorithm)
+     * [Papers](#papers-3)
+  * [Performance Analysis](#performance-analysis)
+     * [Papers](#papers-4)
+     * [Books](#books)
+     * [Slides](#slides-1)
+  * [Compiler](#compiler)
+  * [Documentations](#documentations)
+     * [White Papers](#white-papers)
+     * [APIs](#apis)
+  * [GTC](#gtc)
 
-<!-- tocstop -->
 
 ## Resources Management
 
@@ -63,10 +65,15 @@ Awesome-GPU
 1. **ISPASS'10**-[Demystifying GPU Microarchitecture through Microbenchmarking](http://ieeexplore.ieee.org/document/5452013/)
 2. **ISPASS'10**-[Visualizing Complex Dynamics in Many-Core Accelerator Architectures](http://ieeexplore.ieee.org/document/5452029/)
 3. **ISPASS'09**-[Analyzing CUDA Workloads Using a Detailed GPU Simulator](http://ieeexplore.ieee.org/abstract/document/4919648/)
+4. **ISCA'15**-[Flexible software profiling of GPU architectures](http://ieeexplore.ieee.org/document/7284065/)
 
 ### Books
 
 1. [Performance Analysis and Tuning for General Purpose Graphics Processing Units (GPGPU)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6812836&newsearch=true&queryText=Performance%20Analysis%20and%20Tuning%20for%20General%20Purpose%20Graphics%20Processing%20Units%2038%20.LB.GPGPU.RB.)
+
+### Slides
+
+1. [SASSI](https://github.com/NVlabs/SASSI/blob/master/doc/SASSI-Tutorial-Micro2015.pptx)
 
 ## Compiler
 
