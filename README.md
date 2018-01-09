@@ -1,9 +1,6 @@
 Awesome-GPU
 ----
 
-Table of Contents
-=================
-
   * [Awesome-GPU](#awesome-gpu)
   * [Resources Management](#resources-management)
      * [Papers](#papers)
