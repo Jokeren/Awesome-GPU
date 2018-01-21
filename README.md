@@ -1,3 +1,4 @@
+
 Awesome-GPU
 ----
 
@@ -15,6 +16,7 @@ Awesome-GPU
      * [Papers](#papers-4)
      * [Books](#books)
      * [Slides](#slides-1)
+     * [Software](#software)
   * [Compiler](#compiler)
   * [Documentations](#documentations)
      * [White Papers](#white-papers)
@@ -74,6 +76,15 @@ Awesome-GPU
 ### Slides
 
 1. [SASSI](https://github.com/NVlabs/SASSI/blob/master/doc/SASSI-Tutorial-Micro2015.pptx)
+
+### Software
+
+1. [Vampir|Score-P](http://www.vi-hps.org/projects/score-p/)
+2. [TAU](https://www.cs.uoregon.edu/research/tau/home.php)
+3. [PAPI](http://icl.utk.edu/papi/)
+4. [Allinea MAP](https://www.allinea.com/products/map/)
+5. [Open|SpeedShop](https://openspeedshop.org/)
+6. [HPCToolkit](http://hpctoolkit.org/)
 
 ## Compiler
 
