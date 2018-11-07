@@ -95,6 +95,7 @@ Awesome-GPU
 ## Approximate Computing
 
 1. **ASPLOS'14**-[Paraprox: Pattern-Based Approximation for Data Parallel Applications](https://dl.acm.org/citation.cfm?id=2541948)
+2. **ASPLOS'17**-[REDSPY: Exploring Value Locality in Software](https://dl.acm.org/citation.cfm?id=3037729)
 
 ## Documentations
 
