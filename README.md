@@ -18,6 +18,7 @@ Awesome-GPU
      * [Slides](#slides-1)
      * [Software](#software)
   * [Compiler](#compiler)
+  * [Approximate Computing](#approximate-computing)
   * [Documentations](#documentations)
      * [White Papers](#white-papers)
      * [APIs](#apis)
@@ -90,6 +91,10 @@ Awesome-GPU
 ## Compiler
 
 1. **CGO'16**-[gpucc: An Open-Source GPGPU Compiler](http://dl.acm.org/citation.cfm?id=2854041)
+
+## Approximate Computing
+
+1. **ASPLOS'14**-[Paraprox: Pattern-Based Approximation for Data Parallel Applications](https://dl.acm.org/citation.cfm?id=2541948)
 
 ## Documentations
 
