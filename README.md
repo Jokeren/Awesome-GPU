@@ -52,6 +52,7 @@ Awesome-GPU
 ### Papers
 
 1. **ISCA'16**-[APRES: Improving Cache Efficiency by Exploiting Load Characteristics on GPUs](http://ieeexplore.ieee.org/document/7551393/)
+2. **SC'15**-[Adaptive and Transparent Cache Bypassing for GPUs](https://ieeexplore.ieee.org/document/7832791)
 
 ## Algorithm
 
