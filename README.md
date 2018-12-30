@@ -91,7 +91,12 @@ Awesome-GPU
 
 ## Compiler
 
-1. **CGO'16**-[gpucc: An Open-Source GPGPU Compiler](http://dl.acm.org/citation.cfm?id=2854041)
+1. **LLVM'17**-[Implementing implicit OpenMP data sharing on GPUs](https://dl.acm.org/citation.cfm?id=3148189)
+2. **CGO'16**-[gpucc: An Open-Source GPGPU Compiler](http://dl.acm.org/citation.cfm?id=2854041)
+3. **LLVM'16**-[Offloading Support for OpenMP in Clang and LLVM](https://dl.acm.org/citation.cfm?id=3018870)
+4. **PMBS'15**-[Performance Analysis of OpenMP on a GPU using a CORAL Proxy Application](https://dl.acm.org/citation.cfm?id=2832089)
+5. **LLVM'15**-[Integrating GPU Support for OpenMP Ofﬂoading Directives into Clang](https://dl.acm.org/citation.cfm?id=2833161)
+6. **LLVM'14**-[Coordinating GPU Threads for OpenMP 4.0 in LLVM](https://dl.acm.org/citation.cfm?id=2688364)
 
 ## Approximate Computing
 
