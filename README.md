@@ -101,16 +101,16 @@ Awesome-GPU
 ## Approximate Computing
 
 1. **ASPLOS'14**-[Paraprox: Pattern-Based Approximation for Data Parallel Applications](https://dl.acm.org/citation.cfm?id=2541948)
-2. **ASPLOS'17**-[REDSPY: Exploring Value Locality in Software](https://dl.acm.org/citation.cfm?id=3037729)
 
 ## Documentations
 
 ### White Papers
 
-1. **Volta**-[NVIDIA TESLA V100](http://www.nvidia.com/object/volta-architecture-whitepaper.html)
-2. **Pascal**-[NVIDIA TESLA P100](http://www.nvidia.com/object/gpu-architecture.html)
-3. **Kepler**-[NVIDIA’s Next Generation CUDA Compute Architecture: Kepler](https://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf)
-4. **Fermi**-[NVIDIA’s Next Generation CUDA Compute Architecture: Fermi](https://www.nvidia.com/content/PDF/fermi_white_papers/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)
+1. **Turing**-[NVIDIA TURING GPU ARCHITECTURE](https://www.nvidia.com/en-us/design-visualization/technologies/turing-architecture/)
+2. **Volta**-[NVIDIA TESLA V100](http://www.nvidia.com/object/volta-architecture-whitepaper.html)
+3. **Pascal**-[NVIDIA TESLA P100](http://www.nvidia.com/object/gpu-architecture.html)
+4. **Kepler**-[NVIDIA’s Next Generation CUDA Compute Architecture: Kepler](https://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf)
+5. **Fermi**-[NVIDIA’s Next Generation CUDA Compute Architecture: Fermi](https://www.nvidia.com/content/PDF/fermi_white_papers/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)
 
 ### APIs
 
