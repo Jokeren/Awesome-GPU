@@ -65,12 +65,13 @@ Awesome-GPU
 ### Papers
 
 1. **PLDI'18**-[GPU Code Optimization using Abstract Kernel Emulation and Sensitivity Analysis](https://dl.acm.org/citation.cfm?id=3192397)
-1. **Euro-Par'15**-[Identifying Optimization Opportunities Within Kernel Execution in GPU Codes](https://link.springer.com/chapter/10.1007/978-3-319-27308-2_16)
-1. **ISCA'15**-[Flexible software profiling of GPU architectures](http://ieeexplore.ieee.org/document/7284065/)
-2. **SC'13**-[Effective sampling-driven performance tools for GPU-accelerated supercomputers](https://dl.acm.org/citation.cfm?id=2503299)
-3. **ISPASS'10**-[Demystifying GPU Microarchitecture through Microbenchmarking](http://ieeexplore.ieee.org/document/5452013/)
-4. **ISPASS'10**-[Visualizing Complex Dynamics in Many-Core Accelerator Architectures](http://ieeexplore.ieee.org/document/5452029/)
-5. **ISPASS'09**-[Analyzing CUDA Workloads Using a Detailed GPU Simulator](http://ieeexplore.ieee.org/abstract/document/4919648/)
+2. **Euro-Par'15**-[Identifying Optimization Opportunities Within Kernel Execution in GPU Codes](https://link.springer.com/chapter/10.1007/978-3-319-27308-2_16)
+3. **ISCA'15**-[Flexible software profiling of GPU architectures](http://ieeexplore.ieee.org/document/7284065/)
+4. **SC'13**-[Effective sampling-driven performance tools for GPU-accelerated supercomputers](https://dl.acm.org/citation.cfm?id=2503299)
+5. **ICPP'11**-[Parallel Performance Measurement of Heterogeneous Parallel Systems with GPUs](https://dl.acm.org/citation.cfm?id=2066951)
+6. **ISPASS'10**-[Demystifying GPU Microarchitecture through Microbenchmarking](http://ieeexplore.ieee.org/document/5452013/)
+7. **ISPASS'10**-[Visualizing Complex Dynamics in Many-Core Accelerator Architectures](http://ieeexplore.ieee.org/document/5452029/)
+8. **ISPASS'09**-[Analyzing CUDA Workloads Using a Detailed GPU Simulator](http://ieeexplore.ieee.org/abstract/document/4919648/)
 
 ### Books
 
