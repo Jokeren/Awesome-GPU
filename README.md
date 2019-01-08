@@ -93,6 +93,8 @@ Awesome-GPU
 4. [Allinea MAP](https://www.allinea.com/products/map/)
 5. [Open|SpeedShop](https://openspeedshop.org/)
 6. [HPCToolkit](http://hpctoolkit.org/)
+7. [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems)
+8. [NVIDIA Nsight Compute](https://developer.nvidia.com/nsight-compute)
 
 ## Compiler
 
