@@ -1,29 +1,28 @@
-
 Awesome-GPU
-----
+=================
 
-  * [Awesome-GPU](#awesome-gpu)
-  * [Resources Management](#resources-management)
-     * [Papers](#papers)
-  * [Parallelism](#parallelism)
-     * [Papers](#papers-1)
-     * [Slides](#slides)
-  * [Cache](#cache)
-     * [Papers](#papers-2)
-  * [Algorithm](#algorithm)
-     * [Papers](#papers-3)
-  * [Performance Analysis](#performance-analysis)
-     * [Papers](#papers-4)
-     * [Books](#books)
-     * [Slides](#slides-1)
-     * [Software](#software)
-  * [Compiler](#compiler)
-  * [Approximate Computing](#approximate-computing)
-  * [Documentations](#documentations)
-     * [White Papers](#white-papers)
-     * [APIs](#apis)
-  * [GTC](#gtc)
-
+      * [Resources Management](#resources-management)
+         * [Papers](#papers)
+      * [Parallelism](#parallelism)
+         * [Papers](#papers-1)
+         * [Slides](#slides)
+      * [Cache](#cache)
+         * [Papers](#papers-2)
+      * [Algorithm](#algorithm)
+         * [Papers](#papers-3)
+         * [Slides](#slides-1)
+         * [Tools](#tools)
+      * [Performance Analysis](#performance-analysis)
+         * [Papers](#papers-4)
+         * [Books](#books)
+         * [Slides](#slides-2)
+         * [Software](#software)
+      * [Compiler](#compiler)
+      * [Approximate Computing](#approximate-computing)
+      * [Documentations](#documentations)
+         * [White Papers](#white-papers)
+         * [APIs](#apis)
+      * [GTC](#gtc)
 
 ## Resources Management
 
@@ -59,6 +58,14 @@ Awesome-GPU
 ### Papers
 
 1. **HPCA'17**-[Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures](http://ieeexplore.ieee.org/document/7920809/)
+
+### Slides
+
+1. **GTC'18**-[CUTLASS: CUDA TEMPLATE LIBRARY FOR DENSE LINEAR ALGEBRA AT ALL LEVELS AND SCALES](http://on-demand.gputechconf.com/gtc/2018/presentation/s8854-cutlass-software-primitives-for-dense-linear-algebra-at-all-levels-and-scales-within-cuda.pdf)
+
+### Tools
+
+1. [CUTLASS](https://github.com/NVIDIA/cutlass)
 
 ## Performance Analysis
 
