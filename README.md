@@ -11,7 +11,7 @@ Awesome-GPU
  * [Algorithm](#algorithm)
     * [Papers](#papers-3)
     * [Slides](#slides-1)
-    * [Tools](#tools)
+    * [Software](#tools)
  * [Performance Analysis](#performance-analysis)
     * [Papers](#papers-4)
     * [Books](#books)
@@ -63,7 +63,7 @@ Awesome-GPU
 
 1. **GTC'18**-[CUTLASS: CUDA TEMPLATE LIBRARY FOR DENSE LINEAR ALGEBRA AT ALL LEVELS AND SCALES](http://on-demand.gputechconf.com/gtc/2018/presentation/s8854-cutlass-software-primitives-for-dense-linear-algebra-at-all-levels-and-scales-within-cuda.pdf)
 
-### Tools
+### Software
 
 1. [CUTLASS](https://github.com/NVIDIA/cutlass)
 
