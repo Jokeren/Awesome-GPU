@@ -11,12 +11,12 @@ Awesome-GPU
  * [Algorithm](#algorithm)
     * [Papers](#papers-3)
     * [Slides](#slides-1)
-    * [Software](#tools)
+    * [Software](#software-1)
  * [Performance Analysis](#performance-analysis)
     * [Papers](#papers-4)
     * [Books](#books)
     * [Slides](#slides-2)
-    * [Software](#software)
+    * [Software](#software-2)
  * [Compiler](#compiler)
  * [Approximate Computing](#approximate-computing)
  * [Documentations](#documentations)
@@ -71,6 +71,9 @@ Awesome-GPU
 
 ### Papers
 
+1. **ECP'19**-[Performance Tuning of Scientific Codes with the Roofline Model](https://crd.lbl.gov/assets/Uploads/ECP19-Roofline-1-intro.pdf)
+1. **GTC'18**-[Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://arxiv.org/pdf/1804.06826.pdf)
+1. **GTC'18**-[VOLTA Architecture and performance optimization](http://on-demand.gputechconf.com/gtc/2018/presentation/s81006-volta-architecture-and-performance-optimization.pdf)
 1. **PLDI'18**-[GPU Code Optimization using Abstract Kernel Emulation and Sensitivity Analysis](https://dl.acm.org/citation.cfm?id=3192397)
 2. **CGO'18**-[CUDAAdvisor: LLVM-based runtime profiling for modern GPUs](https://dl.acm.org/citation.cfm?id=3168831)
 3. **CCGRID'18**-[Exposing Hidden Performance Opportunities in High Performance GPU Applications ](https://ieeexplore.ieee.org/document/8411034)
@@ -82,7 +85,8 @@ Awesome-GPU
 9. **ISPASS'10**-[Demystifying GPU Microarchitecture through Microbenchmarking](http://ieeexplore.ieee.org/document/5452013/)
 10. **ISPASS'10**-[Visualizing Complex Dynamics in Many-Core Accelerator Architectures](http://ieeexplore.ieee.org/document/5452029/)
 11. **ISPASS'09**-[Analyzing CUDA Workloads Using a Detailed GPU Simulator](http://ieeexplore.ieee.org/abstract/document/4919648/)
-12. [Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.html)
+12. **SC'10**-[Fundamental_Optimizations](https://www.nvidia.com/content/PDF/sc_2010/CUDA_Tutorial/SC10_Fundamental_Optimizations.pdf)
+13. [Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.html)
 
 ### Books
 
