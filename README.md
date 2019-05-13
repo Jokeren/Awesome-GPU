@@ -1,7 +1,7 @@
-Table of Contents
+Awesome-GPU
 =================
 
-   * [Table of Contents](#table-of-contents)
+   * [Awesome-GPU](#awesome-gpu)
       * [Resources Management](#resources-management)
          * [Papers](#papers)
       * [Parallelism](#parallelism)
@@ -26,6 +26,7 @@ Table of Contents
          * [White Papers](#white-papers)
          * [APIs](#apis)
       * [GTC](#gtc)
+
 
 ## Resources Management
 
