@@ -41,7 +41,7 @@ Awesome-GPU
 1. **HPCA'17**-[Controlled Kernel Launch for Dynamic Parallelism in GPUs](http://ieeexplore.ieee.org/document/7920863/)
 2. **ISCA'16**-[LaPerm: Locality Aware Scheduler for Dynamic Parallelism on GPUs](http://ieeexplore.ieee.org/document/7551424/)
 3. **ISCA'16**-[Virtual Thread Maximizing Thread-Level Parallelism beyond GPU Scheduling Limit](http://ieeexplore.ieee.org/document/7551426/)
-4. **Berkeley TechRpts'16**[Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.html)
+4. **Berkeley TechRpts'16**-[Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.html)
 
 ### Slides
 
