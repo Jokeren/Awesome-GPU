@@ -41,6 +41,7 @@ Awesome-GPU
 1. **HPCA'17**-[Controlled Kernel Launch for Dynamic Parallelism in GPUs](http://ieeexplore.ieee.org/document/7920863/)
 2. **ISCA'16**-[LaPerm: Locality Aware Scheduler for Dynamic Parallelism on GPUs](http://ieeexplore.ieee.org/document/7551424/)
 3. **ISCA'16**-[Virtual Thread Maximizing Thread-Level Parallelism beyond GPU Scheduling Limit](http://ieeexplore.ieee.org/document/7551426/)
+4. **Berkeley TechRpts'16**[Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.html)
 
 ### Slides
 
@@ -72,21 +73,19 @@ Awesome-GPU
 ### Papers
 
 1. **ECP'19**-[Performance Tuning of Scientific Codes with the Roofline Model](https://crd.lbl.gov/assets/Uploads/ECP19-Roofline-1-intro.pdf)
-1. **GTC'18**-[Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://arxiv.org/pdf/1804.06826.pdf)
-1. **GTC'18**-[VOLTA Architecture and performance optimization](http://on-demand.gputechconf.com/gtc/2018/presentation/s81006-volta-architecture-and-performance-optimization.pdf)
-1. **PLDI'18**-[GPU Code Optimization using Abstract Kernel Emulation and Sensitivity Analysis](https://dl.acm.org/citation.cfm?id=3192397)
-2. **CGO'18**-[CUDAAdvisor: LLVM-based runtime profiling for modern GPUs](https://dl.acm.org/citation.cfm?id=3168831)
-3. **CCGRID'18**-[Exposing Hidden Performance Opportunities in High Performance GPU Applications ](https://ieeexplore.ieee.org/document/8411034)
-4. **Euro-Par'15**-[Identifying Optimization Opportunities Within Kernel Execution in GPU Codes](https://link.springer.com/chapter/10.1007/978-3-319-27308-2_16)
-5. **ISCA'15**-[Flexible software profiling of GPU architectures](http://ieeexplore.ieee.org/document/7284065/)
-6. **SC'13**-[Effective sampling-driven performance tools for GPU-accelerated supercomputers](https://dl.acm.org/citation.cfm?id=2503299)
-7. **ISPASS'12**-[Lynx: A dynamic instrumentation system for data-parallel applications on GPGPU architectures ](https://ieeexplore.ieee.org/document/6189206)
-8. **ICPP'11**-[Parallel Performance Measurement of Heterogeneous Parallel Systems with GPUs](https://dl.acm.org/citation.cfm?id=2066951)
-9. **ISPASS'10**-[Demystifying GPU Microarchitecture through Microbenchmarking](http://ieeexplore.ieee.org/document/5452013/)
-10. **ISPASS'10**-[Visualizing Complex Dynamics in Many-Core Accelerator Architectures](http://ieeexplore.ieee.org/document/5452029/)
-11. **ISPASS'09**-[Analyzing CUDA Workloads Using a Detailed GPU Simulator](http://ieeexplore.ieee.org/abstract/document/4919648/)
-12. **SC'10**-[Fundamental_Optimizations](https://www.nvidia.com/content/PDF/sc_2010/CUDA_Tutorial/SC10_Fundamental_Optimizations.pdf)
-13. [Understanding Latency Hiding on GPUs](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-143.html)
+2. **GTC'18**-[Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://arxiv.org/pdf/1804.06826.pdf)
+3. **GTC'18**-[VOLTA Architecture and performance optimization](http://on-demand.gputechconf.com/gtc/2018/presentation/s81006-volta-architecture-and-performance-optimization.pdf)
+4. **PLDI'18**-[GPU Code Optimization using Abstract Kernel Emulation and Sensitivity Analysis](https://dl.acm.org/citation.cfm?id=3192397)
+5. **CGO'18**-[CUDAAdvisor: LLVM-based runtime profiling for modern GPUs](https://dl.acm.org/citation.cfm?id=3168831)
+6. **CCGRID'18**-[Exposing Hidden Performance Opportunities in High Performance GPU Applications ](https://ieeexplore.ieee.org/document/8411034)
+7. **Euro-Par'15**-[Identifying Optimization Opportunities Within Kernel Execution in GPU Codes](https://link.springer.com/chapter/10.1007/978-3-319-27308-2_16)
+8. **ISCA'15**-[Flexible software profiling of GPU architectures](http://ieeexplore.ieee.org/document/7284065/)
+9. **SC'13**-[Effective sampling-driven performance tools for GPU-accelerated supercomputers](https://dl.acm.org/citation.cfm?id=2503299)
+10. **ISPASS'12**-[Lynx: A dynamic instrumentation system for data-parallel applications on GPGPU architectures ](https://ieeexplore.ieee.org/document/6189206)
+11. **ICPP'11**-[Parallel Performance Measurement of Heterogeneous Parallel Systems with GPUs](https://dl.acm.org/citation.cfm?id=2066951)
+12. **ISPASS'10**-[Demystifying GPU Microarchitecture through Microbenchmarking](http://ieeexplore.ieee.org/document/5452013/)
+13. **ISPASS'10**-[Visualizing Complex Dynamics in Many-Core Accelerator Architectures](http://ieeexplore.ieee.org/document/5452029/)
+14. **ISPASS'09**-[Analyzing CUDA Workloads Using a Detailed GPU Simulator](http://ieeexplore.ieee.org/abstract/document/4919648/)
 
 ### Books
 
@@ -96,6 +95,7 @@ Awesome-GPU
 ### Slides
 
 1. [SASSI](https://github.com/NVlabs/SASSI/blob/master/doc/SASSI-Tutorial-Micro2015.pptx)
+2. **SC'10**-[Fundamental_Optimizations](https://www.nvidia.com/content/PDF/sc_2010/CUDA_Tutorial/SC10_Fundamental_Optimizations.pdf)
 
 ### Software
 
