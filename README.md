@@ -135,6 +135,7 @@ Awesome-GPU
 
 ### White Papers
 
+1. **Ampere**-[NVIDIA A100 Tensor Core GPU Architecture](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/nvidia-ampere-architecture-whitepaper.pdf)
 1. **Turing**-[NVIDIA TURING GPU ARCHITECTURE](https://www.nvidia.com/en-us/design-visualization/technologies/turing-architecture/)
 2. **Volta**-[NVIDIA TESLA V100](http://www.nvidia.com/object/volta-architecture-whitepaper.html)
 3. **Pascal**-[NVIDIA TESLA P100](http://www.nvidia.com/object/gpu-architecture.html)
