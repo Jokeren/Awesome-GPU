@@ -87,8 +87,8 @@ Awesome-GPU
 
 - **ECP'19**-[Performance Tuning of Scientific Codes with the Roofline Model](https://crd.lbl.gov/assets/Uploads/ECP19-Roofline-1-intro.pdf)
 - **GTC'18**-[VOLTA Architecture and performance optimization](http://on-demand.gputechconf.com/gtc/2018/presentation/s81006-volta-architecture-and-performance-optimization.pdf)
+- **Synthesis Lectures on Computer Architecture'12**-[Performance Analysis and Tuning for General Purpose Graphics Processing Units (GPGPU)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6812836&newsearch=true&queryText=Performance%20Analysis%20and%20Tuning%20for%20General%20Purpose%20Graphics%20Processing%20Units%2038%20.LB.GPGPU.RB.)
 - **SC'10**-[Fundamental_Optimizations](https://www.nvidia.com/content/PDF/sc_2010/CUDA_Tutorial/SC10_Fundamental_Optimizations.pdf)
-- [Performance Analysis and Tuning for General Purpose Graphics Processing Units (GPGPU)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6812836&newsearch=true&queryText=Performance%20Analysis%20and%20Tuning%20for%20General%20Purpose%20Graphics%20Processing%20Units%2038%20.LB.GPGPU.RB.)
 
 ### Simulators
 
