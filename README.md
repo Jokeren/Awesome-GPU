@@ -25,6 +25,7 @@ Awesome-GPU
 
 ### Resources Management
 
+- **TECS'21**-[Reducing Energy in GPGPUs through Approximate Trivial Bypassing](https://dl.acm.org/doi/10.1145/3429440)
 - **ASPLOS'17**-[Locality-Aware CTA Clustering for Modern GPUs](http://dl.acm.org/citation.cfm?id=3037709)
 - **ASPLOS'17**-[Dynamic Resource Management for Efficient Utilization of Multitasking GPUs](http://dl.acm.org/citation.cfm?id=3037707)
 - **HPCA'17**-[Dynamic GPGPU Power Management Using Adaptive Model Predictive Control](http://ieeexplore.ieee.org/document/7920860/)
@@ -32,6 +33,7 @@ Awesome-GPU
 
 ### Parallelism
 
+- **HPCA'18**-[Accelerate GPU Concurrent Kernel Execution by Mitigating Memory Pipeline Stalls](https://ieeexplore.ieee.org/abstract/document/8327010)
 - **HPCA'17**-[Controlled Kernel Launch for Dynamic Parallelism in GPUs](http://ieeexplore.ieee.org/document/7920863/)
 - **GTC'17**-[COOPERATIVE GROUPS](http://on-demand.gputechconf.com/gtc/2017/presentation/s7622-Kyrylo-perelygin-robust-and-scalable-cuda.pdf)
 - **ISCA'16**-[LaPerm: Locality Aware Scheduler for Dynamic Parallelism on GPUs](http://ieeexplore.ieee.org/document/7551424/)
@@ -65,6 +67,17 @@ Awesome-GPU
 ### BLAS
 
 - **GTC'18**-[CUTLASS: CUDA TEMPLATE LIBRARY FOR DENSE LINEAR ALGEBRA AT ALL LEVELS AND SCALES](http://on-demand.gputechconf.com/gtc/2018/presentation/s8854-cutlass-software-primitives-for-dense-linear-algebra-at-all-levels-and-scales-within-cuda.pdf)
+- **IPDPS'20**[Demystifying Tensor Cores to Optimize Half-Precision Matrix Multiply](https://ieeexplore.ieee.org/abstract/document/9139835)
+
+### Stencils
+
+- **CGO'20**-[AN5D: Automated Stencil Framework for High-Degree Temporal Blocking on GPUs](https://dl.acm.org/doi/10.1145/3368826.3377904)
+- **IPDPS'20**-[On Optimizing Complex Stencils on GPUs](https://ieeexplore.ieee.org/document/8820786)
+- **PPoPP'18**-[Register Optimizations for Stencils on GPUs](https://dl.acm.org/doi/abs/10.1145/3178487.3178500)
+
+### Scans
+
+- **NVResearch TechRpts'16**-[Single-pass Parallel Prefix Scan with Decoupled Look-back](https://research.nvidia.com/publication/single-pass-parallel-prefix-scan-decoupled-look-back)
 
 ## Applications
 
@@ -125,6 +138,10 @@ Awesome-GPU
 - **PMBS'15**-[Performance Analysis of OpenMP on a GPU using a CORAL Proxy Application](https://dl.acm.org/citation.cfm?id=2832089)
 - **LLVM'15**-[Integrating GPU Support for OpenMP Ofﬂoading Directives into Clang](https://dl.acm.org/citation.cfm?id=2833161)
 - **LLVM'14**-[Coordinating GPU Threads for OpenMP 4.0 in LLVM](https://dl.acm.org/citation.cfm?id=2688364)
+
+### Programming Models
+
+- **CGO'21**-[C-for-metal: high performance SIMD programming on intel GPUs](https://dl.acm.org/doi/abs/10.1109/CGO51591.2021.9370324)
 
 ### Binaries
 
