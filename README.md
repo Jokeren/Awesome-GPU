@@ -9,6 +9,8 @@ Awesome-GPU
       * [White Papers](#white-papers)
    * [Algorithms](#algorithms)
       * [BLAS](#blas)
+      * [Stencils](#stencils)
+      * [Scans](#scans)
    * [Applications](#applications)
       * [Deep Learning](#deep-learning)
       * [General Applications](#general-applications)
@@ -19,6 +21,7 @@ Awesome-GPU
       * [Profilers](#profilers)
    * [Code Generation](#code-generation)
       * [Compilers](#compilers)
+      * [Programming Models](#programming-models)
       * [Binaries](#binaries)
 
 ## Architecture
@@ -59,7 +62,7 @@ Awesome-GPU
 - **NVIDIA Pascal**-[NVIDIA TESLA P100](http://www.nvidia.com/object/gpu-architecture.html)
 - **NVIDIA Kepler**-[NVIDIA’s Next Generation CUDA Compute Architecture: Kepler](https://www.nvidia.com/content/PDF/kepler/NVIDIA-Kepler-GK110-Architecture-Whitepaper.pdf)
 - **NVIDIA Fermi**-[NVIDIA’s Next Generation CUDA Compute Architecture: Fermi](https://www.nvidia.com/content/PDF/fermi_white_papers/NVIDIA_Fermi_Compute_Architecture_Whitepaper.pdf)
-- **AMD CDNA 2**[INTRODUCING AMD CDNA 2 ARCHITECTURE](https://www.amd.com/system/files/documents/amd-cdna2-white-paper.pdf)
+- **AMD CDNA 2**-[INTRODUCING AMD CDNA 2 ARCHITECTURE](https://www.amd.com/system/files/documents/amd-cdna2-white-paper.pdf)
 - **AMD CDNA**-[INTRODUCING AMD CDNA ARCHITECTURE](https://www.amd.com/system/files/documents/amd-cdna-whitepaper.pdf)
 
 ## Algorithms
@@ -118,15 +121,16 @@ Awesome-GPU
 - **SC'13**-[Effective sampling-driven performance tools for GPU-accelerated supercomputers](https://dl.acm.org/citation.cfm?id=2503299)
 - **ISPASS'12**-[Lynx: A dynamic instrumentation system for data-parallel applications on GPGPU architectures ](https://ieeexplore.ieee.org/document/6189206)
 - **ICPP'11**-[Parallel Performance Measurement of Heterogeneous Parallel Systems with GPUs](https://dl.acm.org/citation.cfm?id=2066951)
-- [Vampir|Score-P](http://www.vi-hps.org/projects/score-p/)
-- [TAU](https://www.cs.uoregon.edu/research/tau/home.php)
-- [PAPI](http://icl.utk.edu/papi/)
-- [Allinea MAP](https://www.allinea.com/products/map/)
-- [Open|SpeedShop](https://openspeedshop.org/)
-- [HPCToolkit](http://hpctoolkit.org/)
-- [NVIDIA Nsight Systems](https://developer.nvidia.com/nsight-systems)
-- [NVIDIA Nsight Compute](https://developer.nvidia.com/nsight-compute)
-- [SASSI](https://github.com/NVlabs/SASSI/blob/master/doc/SASSI-Tutorial-Micro2015.pptx)
+- [**Vampir|Score-P**](http://www.vi-hps.org/projects/score-p/)
+- [**TAU**](https://www.cs.uoregon.edu/research/tau/home.php)
+- [**PAPI**](http://icl.utk.edu/papi/)
+- [**Allinea MAP**](https://www.allinea.com/products/map/)
+- [**Open|SpeedShop**](https://openspeedshop.org/)
+- [**HPCToolkit**](http://hpctoolkit.org/)
+- [**NVIDIA Nsight Systems**](https://developer.nvidia.com/nsight-systems)
+- [**NVIDIA Nsight Compute**](https://developer.nvidia.com/nsight-compute)
+- [**SASSI**](https://github.com/NVlabs/SASSI/blob/master/doc/SASSI-Tutorial-Micro2015.pptx)
+- [**NVBit**](https://github.com/NVlabs/NVBit/releases)
 
 ## Code Generation
 
@@ -142,9 +146,10 @@ Awesome-GPU
 ### Programming Models
 
 - **CGO'21**-[C-for-metal: high performance SIMD programming on intel GPUs](https://dl.acm.org/doi/abs/10.1109/CGO51591.2021.9370324)
+- **IPDPS'13**-[Kernel Specialization for Improved Adaptability and Performance on Graphics Processing Units (GPUs)](https://ieeexplore.ieee.org/document/6569883)
 
 ### Binaries
 
 - **CGO'19**-[Decoding CUDA binary](https://dl.acm.org/citation.cfm?id=3314900)
-- **ISCA'15**-[Flexible software profiling of GPU architectures](http://ieeexplore.ieee.org/document/7284065/)## Architecture
+- **ISCA'15**-[Flexible software profiling of GPU architectures](http://ieeexplore.ieee.org/document/7284065/)
 
