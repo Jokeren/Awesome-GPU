@@ -13,7 +13,6 @@ Awesome-GPU
       * [Scans](#scans)
    * [Applications](#applications)
       * [Deep Learning](#deep-learning)
-      * [General Applications](#general-applications)
    * [Tools](#tools)
       * [Benchmarks](#benchmarks)
       * [Models](#models)
@@ -88,10 +87,6 @@ Awesome-GPU
 
 - **HPCA'17**-[Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures](http://ieeexplore.ieee.org/document/7920809/)
 
-### General Applications
-
-- **ASPLOS'14**-[Paraprox: Pattern-Based Approximation for Data Parallel Applications](https://dl.acm.org/citation.cfm?id=2541948)
-
 ## Tools
 
 ### Benchmarks
@@ -136,6 +131,7 @@ Awesome-GPU
 
 ### Compilers
 
+- **PPoPP'22**-[CASE: A Compiler-Assisted SchEduling Framework for Multi-GPU Systems](https://arxiv.org/abs/2107.08538)
 - **LLVM'17**-[Implementing implicit OpenMP data sharing on GPUs](https://dl.acm.org/citation.cfm?id=3148189)
 - **CGO'16**-[gpucc: An Open-Source GPGPU Compiler](http://dl.acm.org/citation.cfm?id=2854041)
 - **LLVM'16**-[Offloading Support for OpenMP in Clang and LLVM](https://dl.acm.org/citation.cfm?id=3018870)
@@ -146,6 +142,7 @@ Awesome-GPU
 ### Programming Models
 
 - **CGO'21**-[C-for-metal: high performance SIMD programming on intel GPUs](https://dl.acm.org/doi/abs/10.1109/CGO51591.2021.9370324)
+- **ASPLOS'14**-[Paraprox: Pattern-Based Approximation for Data Parallel Applications](https://dl.acm.org/citation.cfm?id=2541948)
 - **IPDPS'13**-[Kernel Specialization for Improved Adaptability and Performance on Graphics Processing Units (GPUs)](https://ieeexplore.ieee.org/document/6569883)
 
 ### Binaries
