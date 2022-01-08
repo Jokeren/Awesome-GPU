@@ -18,9 +18,12 @@ Awesome-GPU
       * [Models](#models)
       * [Simulators](#simulators)
       * [Profilers](#profilers)
+   * [Runtime](#runtime)
+      * [Scheduling](#scheduling)
    * [Code Generation](#code-generation)
       * [Compilers](#compilers)
       * [Programming Models](#programming-models)
+      * [Profile Guided Optimization](#profile-guided-optimization)
       * [Binaries](#binaries)
 
 ## Architecture
@@ -68,8 +71,9 @@ Awesome-GPU
 
 ### BLAS
 
+- **IPDPS'20**-[Demystifying Tensor Cores to Optimize Half-Precision Matrix Multiply](https://ieeexplore.ieee.org/abstract/document/9139835)
+- **PPoPP'19**-[A Coordinated Tiling and Batching Framework for Efficient GEMM on GPU](https://dl.acm.org/doi/10.1145/3293883.3295734)
 - **GTC'18**-[CUTLASS: CUDA TEMPLATE LIBRARY FOR DENSE LINEAR ALGEBRA AT ALL LEVELS AND SCALES](http://on-demand.gputechconf.com/gtc/2018/presentation/s8854-cutlass-software-primitives-for-dense-linear-algebra-at-all-levels-and-scales-within-cuda.pdf)
-- **IPDPS'20**[Demystifying Tensor Cores to Optimize Half-Precision Matrix Multiply](https://ieeexplore.ieee.org/abstract/document/9139835)
 
 ### Stencils
 
@@ -85,6 +89,7 @@ Awesome-GPU
 
 ### Deep Learning
 
+- **PPoPP'18**-[SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks](https://arxiv.org/abs/1801.04380)
 - **HPCA'17**-[Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures](http://ieeexplore.ieee.org/document/7920809/)
 
 ## Tools
