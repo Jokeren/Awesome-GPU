@@ -55,6 +55,7 @@ Awesome-GPU
 - **ICCAD'21**-[Improving Inter-kernel Data Reuse With CTA-Page Coordination in GPGPU](https://ieeexplore.ieee.org/document/9643535)
 - **SC'21**-[In-Depth Analyses of Unified Virtual Memory System for GPU Accelerated Computing](https://dl.acm.org/doi/10.1145/3458817.3480855)
 - **IBM'20**-[Umpire: Application-Focused Management and Coordination of Complex Hierarchical Memory](https://ieeexplore.ieee.org/document/8907404)
+- **HPCA'13**-[Reducing GPU Offload Latency via Fine-Grained CPU-GPU Synchronization](https://ieeexplore.ieee.org/document/6522332)
 
 ### White Papers
 
@@ -89,6 +90,10 @@ Awesome-GPU
 
 ### Deep Learning
 
+- **PPoPP'21**-[Understanding and bridging the gaps in current GNN performance optimizations](https://dl.acm.org/doi/10.1145/3437801.3441585)
+- **SC'21**-[E.T.: re-thinking self-attention for transformer models on GPUs](https://dl.acm.org/doi/abs/10.1145/3458817.3476138)
+- **OSDI'21**-[GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
+- **SC'20**-[Sparse GPU Kernels for Deep Learning](https://arxiv.org/abs/2006.10901)
 - **PPoPP'18**-[SuperNeurons: Dynamic GPU Memory Management for Training Deep Neural Networks](https://arxiv.org/abs/1801.04380)
 - **HPCA'17**-[Towards Pervasive and User Satisfactory CNN across GPU Microarchitectures](http://ieeexplore.ieee.org/document/7920809/)
 
@@ -101,6 +106,7 @@ Awesome-GPU
 
 ### Models
 
+- **PMBS'19**-[Instruction Roofline An insightful visual performance model for GPUs](https://ieeexplore.ieee.org/document/9059264)
 - **ECP'19**-[Performance Tuning of Scientific Codes with the Roofline Model](https://crd.lbl.gov/assets/Uploads/ECP19-Roofline-1-intro.pdf)
 - **GTC'18**-[VOLTA Architecture and performance optimization](http://on-demand.gputechconf.com/gtc/2018/presentation/s81006-volta-architecture-and-performance-optimization.pdf)
 - **Synthesis Lectures on Computer Architecture'12**-[Performance Analysis and Tuning for General Purpose Graphics Processing Units (GPGPU)](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6812836&newsearch=true&queryText=Performance%20Analysis%20and%20Tuning%20for%20General%20Purpose%20Graphics%20Processing%20Units%2038%20.LB.GPGPU.RB.)
@@ -143,6 +149,8 @@ Awesome-GPU
 
 ### Compilers
 
+- **AMD'21**-[Generating GPU Compiler Heuristics using Reinforcement Learning](https://arxiv.org/abs/2111.12055)
+- **TACO'21**-[Domain-Specific Multi-Level IR Rewriting for GPU: The Open Earth Compiler for GPU-accelerated Climate Simulation](https://dl.acm.org/doi/10.1145/3469030)
 - **LLVM'17**-[Implementing implicit OpenMP data sharing on GPUs](https://dl.acm.org/citation.cfm?id=3148189)
 - **CGO'16**-[gpucc: An Open-Source GPGPU Compiler](http://dl.acm.org/citation.cfm?id=2854041)
 - **LLVM'16**-[Offloading Support for OpenMP in Clang and LLVM](https://dl.acm.org/citation.cfm?id=3018870)
@@ -153,6 +161,7 @@ Awesome-GPU
 ### Programming Models
 
 - **CGO'21**-[C-for-metal: high performance SIMD programming on intel GPUs](https://dl.acm.org/doi/abs/10.1109/CGO51591.2021.9370324)
+- **ECRTS'19**-[Novel Methodologies for Predictable CPU-To-GPU Command Offloading](https://drops.dagstuhl.de/opus/volltexte/2019/10759/)
 - **ASPLOS'14**-[Paraprox: Pattern-Based Approximation for Data Parallel Applications](https://dl.acm.org/citation.cfm?id=2541948)
 
 ### Profile Guided Optimization
