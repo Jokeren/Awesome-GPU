@@ -132,10 +132,7 @@ Awesome-GPU
 ### Scheduling
 
 - **PPoPP'22**-[CASE: A Compiler-Assisted SchEduling Framework for Multi-GPU Systems](https://arxiv.org/abs/2107.08538)
-
-### Optimization
-
-- **IPDPS'13**-[Kernel Specialization for Improved Adaptability and Performance on Graphics Processing Units (GPUs)](https://ieeexplore.ieee.org/document/6569883)
+- **TPDS'20**-[cCUDA: Effective Co-Scheduling of Concurrent Kernels on GPUs](https://www.computer.org/csdl/journal/td/2020/04/08853389/1dKnnndWFwY)
 
 ## Code Generation
 
@@ -152,6 +149,10 @@ Awesome-GPU
 
 - **CGO'21**-[C-for-metal: high performance SIMD programming on intel GPUs](https://dl.acm.org/doi/abs/10.1109/CGO51591.2021.9370324)
 - **ASPLOS'14**-[Paraprox: Pattern-Based Approximation for Data Parallel Applications](https://dl.acm.org/citation.cfm?id=2541948)
+
+### Profile Guided Optimization
+
+- **IPDPS'13**-[Kernel Specialization for Improved Adaptability and Performance on Graphics Processing Units (GPUs)](https://ieeexplore.ieee.org/document/6569883)
 
 ### Binaries
 
