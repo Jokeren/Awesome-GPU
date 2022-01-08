@@ -157,6 +157,7 @@ Awesome-GPU
 
 ### Profile Guided Optimization
 
+- **Geometry and Optimization'21**-[Cooperative Profile Guided Optimizations](https://doi.org/10.1111/cgf.14382)
 - **IPDPS'13**-[Kernel Specialization for Improved Adaptability and Performance on Graphics Processing Units (GPUs)](https://ieeexplore.ieee.org/document/6569883)
 
 ### Binaries
