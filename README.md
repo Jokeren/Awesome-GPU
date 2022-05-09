@@ -59,6 +59,7 @@ Awesome-GPU
 
 ### White Papers
 
+- **NVIDIA Hopper**-[NVIDIA H100 Tensor Core GPU Architecture](https://resources.nvidia.com/en-us-tensor-core)
 - **NVIDIA Ampere**-[NVIDIA A100 Tensor Core GPU Architecture](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/nvidia-ampere-architecture-whitepaper.pdf)
 - **NVIDIA Turing**-[NVIDIA TURING GPU ARCHITECTURE](https://www.nvidia.com/en-us/design-visualization/technologies/turing-architecture/)
 - **NVIDIA Volta**-[NVIDIA TESLA V100](http://www.nvidia.com/object/volta-architecture-whitepaper.html)
