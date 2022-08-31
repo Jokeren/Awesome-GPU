@@ -101,7 +101,7 @@ Awesome-GPU
 
 ## Tools
 
-### Benchmarks
+### Benchmarking
 
 - **GTC'18**-[Dissecting the NVIDIA Volta GPU Architecture via Microbenchmarking](https://arxiv.org/pdf/1804.06826.pdf)
 - **ISPASS'10**-[Demystifying GPU Microarchitecture through Microbenchmarking](http://ieeexplore.ieee.org/document/5452013/)
