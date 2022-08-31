@@ -73,6 +73,7 @@ Awesome-GPU
 
 ### BLAS
 
+- **GTC'20**-[DEVELOPING CUDA KERNELS TO PUSH TENSOR CORES TO THE ABSOLUTE LIMIT ON NVIDIA A100](https://developer.download.nvidia.com/video/gputechconf/gtc/2020/presentations/s21745-developing-cuda-kernels-to-push-tensor-cores-to-the-absolute-limit-on-nvidia-a100.pdf)
 - **IPDPS'20**-[Demystifying Tensor Cores to Optimize Half-Precision Matrix Multiply](https://ieeexplore.ieee.org/abstract/document/9139835)
 - **PPoPP'19**-[A Coordinated Tiling and Batching Framework for Efficient GEMM on GPU](https://dl.acm.org/doi/10.1145/3293883.3295734)
 - **GTC'18**-[CUTLASS: CUDA TEMPLATE LIBRARY FOR DENSE LINEAR ALGEBRA AT ALL LEVELS AND SCALES](http://on-demand.gputechconf.com/gtc/2018/presentation/s8854-cutlass-software-primitives-for-dense-linear-algebra-at-all-levels-and-scales-within-cuda.pdf)
