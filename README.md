@@ -1,4 +1,4 @@
-Awesome-GPUs
+Awesome-GPU
 =================
 
    * [Architecture](#architecture)
