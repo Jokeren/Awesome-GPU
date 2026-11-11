@@ -14,7 +14,7 @@ Awesome-GPU
    * [Applications](#applications)
       * [Deep Learning](#deep-learning)
    * [Tools](#tools)
-      * [Benchmarks](#benchmarks)
+      * [Benchmarks](#benchmarking)
       * [Models](#models)
       * [Simulators](#simulators)
       * [Profilers](#profilers)
